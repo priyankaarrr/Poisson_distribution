@@ -2,7 +2,7 @@
 
 # Name :priyanka R
 
-# Reg: 212223220081
+# Reg no: 212223220081
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
