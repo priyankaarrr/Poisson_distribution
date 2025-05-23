@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
 
-Name :priyanka R
+# Name :priyanka R
 
-Reg: 212223220081
+# Reg: 212223220081
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
