@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# 2.Fitting Poisson  distribution
 
 # Name :priyanka R
 
